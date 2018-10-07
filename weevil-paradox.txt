@@ -1,3 +1,5 @@
-The weevil paradox. A weevil who has control over a child's mind promises the father that his son's mind will be released if and only if he can correctly predict whether or not the weevil will release the child's mind.
+The weevil paradox. 
+
+A weevil who has control over a child's mind promises the father that his son's mind will be released if and only if he can correctly predict whether or not the weevil will release the child's mind.
 
 The transaction is logically smooth (but unpredictable) if the father guesses that the child's mind will be released, but a dilemma arises for the weevil if he guesses that the child's mind will not be released.
